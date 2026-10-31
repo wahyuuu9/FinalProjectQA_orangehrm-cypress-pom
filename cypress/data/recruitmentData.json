@@ -1,0 +1,16 @@
+{
+  "candidate": {
+    "firstName": "Ares",
+    "lastNamePrefix": "Tester",
+    "email": "ares.tester@example.com",
+    "contact": "081234567890"
+  },
+  "invalidEmail": "ares-tanpa-at",
+  "nonExistentKeyword": "zzzqqxxyy",
+  "messages": {
+    "required": "Required",
+    "invalidEmail": "Expected format: admin@example.com",
+    "noRecords": "No Records Found",
+    "saved": "Successfully Saved"
+  }
+}

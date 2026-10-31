@@ -1,0 +1,14 @@
+{
+  "valid": { "username": "Admin", "password": "admin123" },
+  "wrongPassword": { "username": "Admin", "password": "salah12345" },
+  "wrongUsername": { "username": "userNgawur", "password": "admin123" },
+  "bothWrong": { "username": "userNgawur", "password": "salah12345" },
+  "messages": {
+    "invalidCredentials": "Invalid credentials",
+    "required": "Required"
+  },
+  "urls": {
+    "login": "/auth/login",
+    "dashboard": "/dashboard/index"
+  }
+}

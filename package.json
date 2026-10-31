@@ -1,0 +1,19 @@
+{
+  "name": "final-project-qa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "test:login": "cypress run --spec cypress/e2e/login.cy.js",
+    "test:directory": "cypress run --spec cypress/e2e/directory.cy.js",
+    "test:recruitment": "cypress run --spec cypress/e2e/recruitment.cy.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "cypress": "^16.2.1"
+  }
+}

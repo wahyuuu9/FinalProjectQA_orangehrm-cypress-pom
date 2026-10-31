@@ -1,0 +1,16 @@
+{
+  "jobTitle": "QA Engineer",
+  "location": "Texas R&D",
+  "invalidEmployeeName": "Wahyu Kuncoro",
+  "autocompleteKeyword": "a",
+  "defaultDropdown": "-- Select --",
+  "messages": {
+    "noRecords": "No Records Found",
+    "invalid": "Invalid"
+  },
+  "emptyResponse": {
+    "data": [],
+    "meta": { "total": 0 },
+    "rels": []
+  }
+}
